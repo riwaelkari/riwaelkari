@@ -72,7 +72,18 @@ Developed an AI chatbot in a team of four to diagnose medical conditions using *
 **Tech Stack:**  
 - Python, Flask, JavaScript, HTML, CSS  
 - ResNet18, Whisper API, OpenAI API, LangChain  
-- Docker, Git  
+- Docker, Git
+
+### 📚 [Library Management System](https://github.com/riwaelkari/Library-Management-System)
+
+**Description**
+A comprehensive Library Management System that simulates the management of libraries across multiple faculties, including books, meeting rooms, and electronic resources. This project showcases advanced concepts in **Object-Oriented Programming (OOP)**, **rules enforcement**, and **resource management**, with support for users like admins, students, and professors.
+
+**Tech Stack**
+- Programming Language: Java
+- Core Concepts: Object-Oriented Programming (OOP)
+- Frameworks/Tools: Eclipse IDE
+
 ### 🌸 [Flower Image Classifier](https://github.com/riwaelkari/Flower-Classifier)
 
 **Description:**  
